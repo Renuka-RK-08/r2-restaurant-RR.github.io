@@ -1,0 +1,80 @@
+.bgimg{
+    background-image: url("https://media.istockphoto.com/id/612011684/photo/frame-of-fresh-vegetables-on-wooden-background-with-copy-space.jpg?s=170667a&w=0&k=20&c=h8i8F9obW7HiDzETuvr0t6D4Ta29jRvwC3LihRDTZRE=");
+    height: 300vh;
+    background-size: cover;
+}
+.mealshead{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+    padding: 25px;
+    letter-spacing: 4px;
+}
+.layoutcard{
+    background-color: bisque;
+    border-radius: 8px;
+    padding: 18px;
+    margin: 20px;
+}
+.mealscont{
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.mealspara{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.paneerimg{
+    width: 205px;
+    height: 190px;
+}
+.paneerimg:hover{
+    transform:scale(1.40);
+}
+.vegpalimg{
+    width: 225px;
+    height: 190px;
+}
+.vegpalimg:hover{
+    transform:scale(1.40);
+}
+.mealsimg{
+    width: 290px;
+    height: 190px;
+}
+.mealsimg:hover{
+    transform:scale(1.40);
+}
+.mealimg{
+    width: 195px;
+    height: 185px;
+}
+.mealimg:hover{
+    transform:scale(1.40);
+}
+.curryhead{
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
+.sub{
+    font-size:18px;
+}
+.quote{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bolder;
+   font-size: x-large;
+   letter-spacing: 2px;
+}
+.mealshead:hover{background-color: black;}
+.mealspara:hover{background-color: aqua;}
+.mealscont:hover{background-color: lightseagreen;}
+.curryhead:hover{background-color: lightgrey;}
+.sub:hover{background-color: lightcoral;}
+.quote:hover{background-color: goldenrod;}
+

@@ -1,0 +1,32 @@
+.bgimg{
+    background-image: url("https://www.sharmispassions.com/wp-content/uploads/2017/03/ShahiPaneer1-1-500x500.jpg");
+    background-size: cover;
+    height: 250vh;
+}
+.headfirst{
+    color: darkorange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 600px;
+    padding: 25px;
+}
+.bgcardcarousel{
+    background-color: bisque;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 25px;
+}
+.cardcon{
+    padding: 20px;
+}
+.headsecond{
+    color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+.paraline{
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
